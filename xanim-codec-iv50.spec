@@ -1,5 +1,5 @@
 Summary:	Indeo 5.0 codec for XAnim
-Summary(pl):	Kodek Indeo 5.0 dla XAnima
+Summary(pl.UTF-8):   Kodek Indeo 5.0 dla XAnima
 Name:		xanim-codec-iv50
 Version:	1.0
 Release:	1
@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Intel Indeo 5.0 codec decompression DLL for XAnim.
 
-%description -l pl
+%description -l pl.UTF-8
 Biblioteka do dekompresji kodeka Intel Indeo 5.0 dla XAnima.
 
 %prep
