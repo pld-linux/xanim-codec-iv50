@@ -1,5 +1,5 @@
 Summary:	Indeo 5.0 codec for XAnim
-Summary(pl.UTF-8):   Kodek Indeo 5.0 dla XAnima
+Summary(pl.UTF-8):	Kodek Indeo 5.0 dla XAnima
 Name:		xanim-codec-iv50
 Version:	1.0
 Release:	1
